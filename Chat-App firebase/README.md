@@ -16,6 +16,8 @@ Created a fully functional a Chat Application using React and Firebase
 - **User Interface:** Developed an intuitive and user-friendly interface, ensuring a smooth and enjoyable chatting experience for users.
 
 - **Share Pictures:** User can Share pictures with Chats and Also set his profile picture when user Register to the Web App
+  
+![Screenshot 2024-02-07 215734](https://github.com/krishankantkk/chat-app/assets/93835021/7564c7c9-8480-4c7c-a97f-f056b30d9c89)
 
 ## Tools
 
